@@ -300,7 +300,7 @@ function App() {
                     <div className="relative w-full max-w-lg mb-10 group flex justify-center">
                         <div className="absolute inset-0 bg-[#C83C23]/5 rounded-full blur-3xl group-hover:bg-[#C83C23]/10 transition-colors duration-700"></div>
                         <img 
-                            src="https://r2work.bohubs.com/图片/ChineseRoof.svg" 
+                            src="https://r2work.bohubs.com/image/souxihufeiyan.png" 
                             alt="Pheasant Flying Illustration" 
                             className="relative z-10 w-full h-auto max-h-[300px] object-contain drop-shadow-2xl transform transition-transform duration-700 hover:scale-105"
                         />
